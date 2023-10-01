@@ -1,0 +1,114 @@
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\csc.exe
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\csc.exe.config
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\csc.rsp
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\csi.exe
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\csi.exe.config
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\csi.rsp
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.AppContext.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Collections.Immutable.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Console.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Diagnostics.Process.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.IO.Compression.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.IO.FileSystem.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.IO.Pipes.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.AccessControl.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.Claims.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Threading.Thread.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.ValueTuple.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Xml.XPath.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\vbc.exe
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\vbc.exe.config
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\vbc.rsp
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\VBCSCompiler.exe
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\VBCSCompiler.exe.config
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\OnlineJobPortal.dll.config
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\OnlineJobPortal.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\OnlineJobPortal.pdb
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\obj\Debug\OnlineJobPortal.csproj.CoreCompileInputs.cache
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\obj\Debug\OnlineJobPortal.dll
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\obj\Debug\OnlineJobPortal.pdb
+D:\Own Projects\OnlineJobPortal\OnlineJobPortal\obj\Debug\OnlineJobPortal.csprojResolveAssemblyReference.cache
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\csc.exe
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\csc.exe.config
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\csc.rsp
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\csi.exe
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\csi.exe.config
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\csi.rsp
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.AppContext.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Console.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Diagnostics.Process.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.IO.Compression.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.IO.Pipes.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.AccessControl.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.Claims.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Threading.Thread.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.ValueTuple.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Xml.XPath.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\vbc.exe
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\vbc.exe.config
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\vbc.rsp
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\VBCSCompiler.exe
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\OnlineJobPortal.dll.config
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\OnlineJobPortal.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\OnlineJobPortal.pdb
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\obj\Debug\OnlineJobPortal.csprojResolveAssemblyReference.cache
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\obj\Debug\OnlineJobPortal.csproj.CoreCompileInputs.cache
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\obj\Debug\OnlineJobPortal.dll
+D:\Projects - ASP.Net\My Projects\OnlineJobPortal\OnlineJobPortal\obj\Debug\OnlineJobPortal.pdb
